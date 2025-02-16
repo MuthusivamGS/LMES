@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+seaborn
+scipy
+statsmodels
+counter
+collections
